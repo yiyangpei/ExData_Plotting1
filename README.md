@@ -1,3 +1,20 @@
+
+# Project 1 of Coursera Course Exploratory Data Analysis
+
+
+This repo is the submission to Course Project 1 of the Coursera Course Exploratory Data Analysis. 
+
+It contains the following files:
+
+* plot1.R, plot2.R, plot3.R, plot4.R, 
+
+* loaddata.R (script to load the data into R) and,
+
+* plot1.png, plot2.png, plot3.png, plot4.png. 
+
+The R code assumes the electric power consumption dataset (household_power_consumption.txt) is available in the working directory. 
+
+
 ## Introduction
 
 This assignment uses data from
